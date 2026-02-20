@@ -30,6 +30,7 @@ background-color: rgb(255, 240, 157);
     padding: 6px;
     display: flex;
     border-radius: 15px;
+    flex-wrap: wrap;
 }
 .noticia{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -41,4 +42,14 @@ background-color: rgb(255, 240, 157);
 .img_noticia{
     width: 400px;
     height: 300px;
+}
+
+#escalacao{
+    background-color: rgb(121, 184, 105);
+    display: flex;
+}
+.img_escalacao{
+    width: 100px;
+    height: 100px;
+    display: flex;
 }
