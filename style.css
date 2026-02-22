@@ -56,6 +56,8 @@ background-color: rgb(255, 240, 157);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(252, 229, 28);
     flex-wrap: wrap;
+    margin-left: 10px;
+    margin-right: 10px;
 
     
 }
